@@ -1,3 +1,5 @@
-// simle ts program
-let hello = "Hello, World";
-console.log(hello);
+function greet(name: string): string {
+  return `Hello, ${name}`;
+}
+
+console.log(greet("World"));
