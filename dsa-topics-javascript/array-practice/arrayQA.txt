@@ -1,0 +1,205 @@
+🔰 Basic-Level Questions (1–20)
+What is an array in JavaScript?
+
+How to declare and initialize an array?
+
+How to access array elements?
+
+How to find the length of an array?
+
+What is a sparse array?
+
+What happens when you access an out-of-bound index?
+
+What are the ways to create arrays in JS?
+
+What’s the difference between Array() and []?
+
+What are array-like objects?
+
+How to check if a variable is an array?
+
+What does typeof [] return?
+
+How to loop through an array?
+
+Difference between for, for...of, and forEach()?
+
+Can an array hold mixed data types?
+
+How to remove the last item of an array?
+
+How to add an item at the beginning of an array?
+
+What does .length do when assigning a value?
+
+What are multidimensional arrays?
+
+How to clone an array in JS?
+
+What's the difference between shallow copy and deep copy?
+
+⚙️ Method-Based Questions (21–40)
+How does push() work?
+
+How does pop() work?
+
+How does shift() work?
+
+How does unshift() work?
+
+What is splice() and how does it work?
+
+How does slice() differ from splice()?
+
+How does map() work?
+
+What is the return type of forEach()?
+
+Difference between map() and forEach()?
+
+What is the use of reduce()?
+
+What is filter() used for?
+
+What does find() return?
+
+What does some() do?
+
+What does every() do?
+
+When to use flat()?
+
+Difference between flat() and flatMap()?
+
+How to sort an array of numbers?
+
+How to sort an array of objects?
+
+What is fill() used for?
+
+Difference between concat() and spread operator?
+
+🧠 Logic-Based Coding Problems (41–70)
+Reverse an array manually.
+
+Find the second largest number in an array.
+
+Remove duplicates from an array.
+
+Find the frequency of each element.
+
+Merge two arrays and remove duplicates.
+
+Rotate an array left by 1.
+
+Rotate an array right by 1.
+
+Check if an array is sorted.
+
+Move all zeros to the end.
+
+Find sum of all array elements.
+
+Find average of array numbers.
+
+Count even and odd numbers.
+
+Find max and min values.
+
+Find common elements in two arrays.
+
+Find difference of two arrays.
+
+Check if two arrays are equal.
+
+Find all pairs with sum = target.
+
+Find the first repeating element.
+
+Find the first non-repeating element.
+
+Flatten an array (1 level).
+
+Flatten deeply nested array (recursively).
+
+Split array into chunks of N size.
+
+Count how many times a value appears.
+
+Replace negative numbers with 0.
+
+Replace every element with next greatest.
+
+Remove all falsy values (false, 0, '', null, undefined)
+
+Sum of alternate elements (odd positions).
+
+Check if an array contains only unique values.
+
+Remove specific element (without filter).
+
+Find element with highest frequency.
+
+🔥 Advanced / DSA-Level Problems (71–90)
+Kadane's Algorithm – max subarray sum.
+
+Find peak element.
+
+Longest increasing subarray.
+
+Longest subarray with all unique elements.
+
+Find missing number in range 1 to N.
+
+Count number of subarrays with sum = K.
+
+Maximum product subarray.
+
+Find triplet with given sum.
+
+Dutch National Flag problem (0s,1s,2s sorting).
+
+Rearrange array: positive and negative alternate.
+
+Majority element (appears > n/2 times).
+
+Stock Buy-Sell for maximum profit.
+
+Count pairs with given difference.
+
+Count number of inversions.
+
+Merge two sorted arrays in O(1) extra space.
+
+Count subarrays with even sum.
+
+Longest subarray with 0 sum.
+
+Subarray with sum divisible by K.
+
+Min length subarray with sum ≥ target.
+
+Sort binary array (0s and 1s) in-place.
+
+🧪 Real-World / Practical Problems (91–100)
+Group array of objects by property using reduce().
+
+Sort array of objects alphabetically by key.
+
+Convert array of values into a comma-separated string.
+
+Remove duplicate objects from array.
+
+Find oldest person from array of people.
+
+Count number of votes per candidate from vote array.
+
+Create histogram/frequency object from array.
+
+Convert array to object (with index as key).
+
+Use reduce() to recreate map() function.
+
+Write polyfill for Array.prototype.map().
+
